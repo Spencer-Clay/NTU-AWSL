@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8850425e-0484-4475-9297-62cf28cff658" name="NTU-CTF">
+        <fileTransfer accessType="SFTP" host="210.29.65.90" port="22" sshConfigId="490eb8df-0fa6-4a69-a9a4-c48abdf5c689" sshConfig="ctf@210.29.65.90:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
