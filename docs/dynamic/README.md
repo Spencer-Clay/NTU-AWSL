@@ -11,6 +11,8 @@ title: 更新日志
     <a-timeline-item>
       2022.3.18
       <p>
+        - <a-tag color="pink">红蓝对抗</a-tag>新增内网渗透文章：<a href='/redteam/innet/批量利用/蓝凌OA任意文件任意文件写入之批量上线.html'>蓝凌OA任意文件任意文件写入之批量上线</a><br/>
+        - <a-tag color="pink">红蓝对抗</a-tag>新增内网渗透文章：<a href='/redteam/innet/批量利用/redis未授权访问漏洞的批量攻击.html'>redis未授权访问漏洞的批量攻击</a><br/>
         - <a-tag color="purple">文库动态</a-tag>修改样式表和布局，更加美观<br/>
         - <a-tag color="red">黑客技能</a-tag>新增安卓攻防文章：<a href='/hackskill/android/安卓设备/远程黑进智能电视.html'>远程黑进智能电视</a><br/>
       </p>

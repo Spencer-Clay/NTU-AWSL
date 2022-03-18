@@ -90,7 +90,20 @@ module.exports = [
     },
     {
       text: '红蓝对抗',
-      link: '/redteam/'
+        items: [
+            {
+                text: "内网渗透",
+                link: "/redteam/innet/",
+            },
+            {
+                text: "信息搜集",
+                link: "/redteam/infocollect/",
+            },
+            {
+                text: "权限维持",
+                link: "/redteam/keeprights/",
+            },
+        ],
     },
     {
         text: '黑客技能',
