@@ -9,6 +9,20 @@ title: 更新日志
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.3.18
+      <p>
+        - <a-tag color="purple">文库动态</a-tag>修改样式表和布局，更加美观<br/>
+        - <a-tag color="red">黑客技能</a-tag>新增安卓攻防文章：<a href='/hackskill/android/安卓设备/远程黑进智能电视.html'>远程黑进智能电视</a><br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      2022.3.17
+      <p>
+        - <a-tag color="yellow">CTF</a-tag>新增WEB文章：<a href='/ctf/WEB/RCE/利用PHP FFI 预加载执行命令.html'>PHP FFI 预加载执行命令</a><br/>
+        - <a-tag color="yellow">CTF</a-tag>新增PWN文章：<a href='/ctf/PWN/自救指南/自救指南.html'>自救指南</a><br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.3.16
       <p>
         - <a-tag color="purple">文库动态</a-tag>开源文库至Github<br/>
@@ -81,3 +95,12 @@ title: 更新日志
     </a-timeline-item>
   </a-timeline>
 </template>
+<script>
+import ACTI
+
+export default {
+    
+components: {ACTI 视频监控}
+
+}
+</script>
