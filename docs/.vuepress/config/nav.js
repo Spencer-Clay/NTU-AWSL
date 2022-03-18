@@ -129,7 +129,7 @@ module.exports = [
 
         ],
     },
-
+/*
     {
       text: '文库动态',
       items: [
@@ -137,7 +137,7 @@ module.exports = [
           text: "更新日志",
           link: "/dynamic/",
         },
-          /*
+
         {
           text: "文章投稿",
           link: "/dynamic/contribution",
@@ -151,10 +151,10 @@ module.exports = [
           link: "/dynamic/intelligence",
         },
 
-           */
+
       ],
     },
-
+*/
 
     /*
     {
