@@ -4,7 +4,7 @@ module.exports = {
   description: 'AWSL战队的内部文库',
   // 注入到当前页面的 HTML <head> 中的标签
   head: [
-    ['link', { rel: 'icon', href: '/img/home.svg' }], // 增加一个自定义的 favicon(网页标签的图标)
+    ['link', { rel: 'icon', href: '/assets/img/CrossC2_logo.a07b4fbd.png' }], // 增加一个自定义的 favicon(网页标签的图标)
   ],
   markdown: {
     lineNumbers: true // 代码块显示行号
@@ -30,9 +30,8 @@ module.exports = {
     smoothScroll: true,
     nav: require('./config/nav'),
     sidebar: require('./config/sidebar'),
-    sidebarDepth: 0,
     lastUpdated: '上次更新',
-    logo: '/img/home.svg',
+    logo: '/assets/img/CrossC2_logo.a07b4fbd.png',
     repo: 'https://github.com/PeiQi0',
     editLinks: false,
     /*

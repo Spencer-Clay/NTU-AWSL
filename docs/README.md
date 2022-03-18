@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/home.svg
+heroImage: /assets/img/CrossC2_logo.a07b4fbd.png
 actionBtn:
   text: 开始使用🍃
   link: /
@@ -15,11 +15,11 @@ actionBtn:
 #  size: large
 features:
 - title: 实用
-  details: 收录互联网中各类文章
-- title: 详细
-  details: 全面的修复及验证方法
-- title: 开源
-  details: 每个人都可以自由搭建
+  details: 内容优质，细节详尽
+- title: 记录
+  details: 记录平时学习所得
+- title: 开放
+  details: 每个人都可以学到知识
 
 head: [
     ['link', { rel: 'icon', href: '/img/home.svg' }],

@@ -17,4 +17,6 @@ module.exports = {
     '/ctf/MISC': require('../../ctf/MISC/sidebar_contents'),
     '/cooperation/': require('../../cooperation/sidebar_contents'),
     '/studyreport/2022': require('../../studyreport/2022/sidebar_contents'),
+    '/hackskill/android': require('../../hackskill/android/sidebar_contents'),
+    '/hackskill/radio': require('../../hackskill/radio/sidebar_contents'),
   };

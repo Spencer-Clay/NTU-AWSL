@@ -93,6 +93,20 @@ module.exports = [
       link: '/redteam/'
     },
     {
+        text: '黑客技能',
+        items: [
+            {
+                text: "无线安全",
+                link: "/hackskill/radio/",
+            },
+            {
+                text: "安卓攻防",
+                link: "/hackskill/android/",
+            },
+
+        ],
+    },
+    {
         text: '学习报告',
         items: [
             {

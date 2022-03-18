@@ -1,6 +1,6 @@
 # 利用PHP FFI 预加载执行命令
 
-# FFI
+## FFI
 
 PHP7.4引入了一个扩展:PHP FFI(Foreign Function interface), 引用一段PHP FFI RFC中的一段描述:
 >For PHP, FFI opens a way to write PHP extensions and bindings to C libraries in pure PHP. 
@@ -15,7 +15,7 @@ $ffi->system("whoami");
 ?>
 ```
 
-# 举例
+## 举例
 
 以[RCTF 2019]Nextphp为例，题目的代码非常简单：
 
@@ -125,6 +125,6 @@ echo base64_encode(serialize($a));
 
 上述payload可以将flag移到web目录。
 
-# 总结
+## 总结
 
 为什么不能用一开始的代码进行RCE？因为默认 ffi.enable=preload **且仅在命令行模式和**preload 文件中可用，在本地环境 ffi.enable=preload 模式下，web端也是无法执行 FFI 。将 ffi.enable 设置成 true 后，发现 web 端就可以利用 FFI 了。
