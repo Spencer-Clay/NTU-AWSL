@@ -13,5 +13,12 @@ module.exports = [
 		children:[
 			"/ctf/WEB/RCE/利用PHP FFI 预加载执行命令",
 		]
+	},
+	{
+		title: "SSRF",
+		collapsable: true,
+		children:[
+			"/ctf/WEB/SSRF/URL拆分造成SSRF",
+		]
 	}
 ];
