@@ -1,0 +1,405 @@
+
+[+] Find 210.29.66.28 (ping)
+[+] Find 210.29.66.4 (ping)
+[+] Find 210.29.66.7 (ping)
+[+] Find 210.29.66.12 (ping)
+[+] Find 210.29.66.20 (ping)
+[+] Find 210.29.66.5 (ping)
+[+] Find 210.29.66.183 (ping)
+[+] Find 210.29.66.3 (ping)
+[+] Find 210.29.66.14 (ping)
+[+] Find 210.29.66.31 (ping)
+[+] Find 210.29.66.184 (ping)
+[+] Find 210.29.66.49 (ping)
+[+] Find 210.29.66.141 (ping)
+[+] Find 210.29.66.42 (ping)
+[+] Find 210.29.66.99 (ping)
+[+] Find 210.29.66.69 (ping)
+[+] Find 210.29.66.34 (ping)
+[+] Find 210.29.66.136 (ping)
+[+] Find 210.29.66.43 (ping)
+[+] Find 210.29.66.35 (ping)
+[+] Find 210.29.66.15 (ping)
+[+] Find 210.29.66.75 (ping)
+[+] Find 210.29.66.143 (ping)
+[+] Find 210.29.66.88 (ping)
+[+] Find 210.29.66.2 (ping)
+[+] Find 210.29.66.27 (ping)
+[+] Find 210.29.66.21 (ping)
+[+] Find 210.29.66.134 (ping)
+[+] Find 210.29.66.13 (ping)
+[+] Find 210.29.66.32 (ping)
+[+] Find 210.29.66.97 (ping)
+[+] Find 210.29.66.29 (ping)
+[+] Find 210.29.66.137 (ping)
+[+] Find 210.29.66.40 (ping)
+[+] Find 210.29.66.67 (ping)
+[+] Find 210.29.66.45 (ping)
+[+] Find 210.29.66.255 (ping)
+[+] Find 210.29.66.19 (ping)
+[+] Find 210.29.66.98 (ping)
+[+] Find 210.29.66.33 (ping)
+[+] Find 210.29.66.41 (ping)
+[+] Find 210.29.66.181 (ping)
+[+] Find 210.29.66.135 (ping)
+[+] Find 210.29.66.68 (ping)
+[+] 210.29.66.2 Find CVE-2020-0796
+[+] 210.29.66.28 443 open
+[+] 210.29.66.28 80 open
+[+] 210.29.66.68 443 open
+[+] 210.29.66.68 22 open
+[+] 210.29.66.28 8080 open
+[+] 210.29.66.68 80 open
+[+] 210.29.66.20 80 open
+[+] 210.29.66.5 22 open
+[+] 210.29.66.5 8080 open
+[+] 210.29.66.31 80 open
+[+] 210.29.66.184 80 open
+[+] 210.29.66.14 80 open
+[+] 210.29.66.68 8080 open
+[+] 210.29.66.184 8080 open
+[+] 210.29.66.141 443 open
+[+] 210.29.66.31 443 open
+[+] 210.29.66.184 443 open
+[+] 210.29.66.141 80 open
+[+] 210.29.66.7 443 open
+[+] 210.29.66.28 22 open
+[+] 210.29.66.31 22 open
+[+] 210.29.66.141 22 open
+[+] 210.29.66.183 80 open
+[+] 210.29.66.4 3306 open
+[+] 210.29.66.7 80 open
+[+] 210.29.66.5 443 open
+[+] 210.29.66.141 8080 open
+[+] 210.29.66.42 443 open
+[+] 210.29.66.42 80 open
+[+] 210.29.66.31 8080 open
+[+] 210.29.66.42 22 open
+[+] 210.29.66.31 7001 open
+[+] 210.29.66.41 80 open
+[+] 210.29.66.45 8080 open
+[+] 210.29.66.41 8080 open
+[+] 210.29.66.41 443 open
+[+] 210.29.66.4 443 open
+[+] 210.29.66.42 8080 open
+[+] 210.29.66.41 22 open
+[+] 210.29.66.4 8080 open
+[+] 210.29.66.45 80 open
+[+] 210.29.66.5 80 open
+[+] 210.29.66.21 8080 open
+[+] 210.29.66.99 443 open
+[+] 210.29.66.69 80 open
+[+] 210.29.66.20 22 open
+[+] 210.29.66.99 80 open
+[+] 210.29.66.45 22 open
+[+] 210.29.66.34 80 open
+[+] 210.29.66.99 22 open
+[+] 210.29.66.45 3306 open
+[NBTBIOS] 210.29.66.143
+	WIN-72P1N5R06L0 U Workstation Service
+	WORKGROUP       G Domain Name
+	WIN-72P1N5R06L0 U Server Service
+	WORKGROUP       G Browser Service Elections
+	WORKGROUP       U Master Browser
+	__MSBROWSE__ G
+	-------------------------------------------
+	Windows Server 2012 R2 Datacenter 9600|Windows Server 2012 R2 Datacenter 6.3
+	NetBIOS domain name   : WIN-72P1N5R06L0
+	NetBIOS computer name : WIN-72P1N5R06L0
+	DNS domain name       : WIN-72P1N5R06L0
+	DNS computer name     : WIN-72P1N5R06L0
+[SMB] IP 210.29.66.143 [domain: WORKGROUP hostname: WIN-72P1N5R06L0]
+[OXID] Hostname WIN-72P1N5R06L0 Network [210.29.66.143 2002:d21d:428f::d21d:428f]
+[SMB] IP 210.29.66.27 [domain: WORKGROUP hostname: WIN-ET3HKRS03H4]
+[OXID] Hostname kt-fujian Network [210.29.66.75]
+[OXID] Hostname WIN-ET3HKRS03H4 Network [210.29.66.27 2002:d21d:421b::d21d:421b]
+[OXID] Hostname DESKTOP-3CVBB65 Network [210.29.66.2]
+[+] 301 https://210.29.66.69/ [Nginx] [QiniuCDN]  南通大学社团管理系统
+[+] 200 https://210.29.66.69 [Nginx] [QiniuCDN]  南通大学社团管理系统
+[+] 400 http://210.29.66.14:8080 [Apache]  None
+[+] 200 http://210.29.66.14:8888 [Apache] [JAVA] [JSP]  Welcome to Solr
+[+] 404 http://210.29.66.14:8002 [Weblogic]  None
+[+] 404 http://210.29.66.14:8000 [Weblogic]  None
+[+] 200 http://210.29.66.20:8006 [Bootstrap] [Spring]  ESOP网关配置工具
+[+] 404 http://210.29.66.34:8001 [Weblogic]  None
+[+] 404 http://210.29.66.42  404 Not Found
+[+] 404 https://210.29.66.42  404 Not Found
+[+] 403 http://210.29.66.5 [Nginx]  403 Forbidden
+[+] 200 https://210.29.66.5 [Nginx]  域名暂未生效
+[+] 404 http://210.29.66.21:7001 [Weblogic]  None
+[+] 301 https://210.29.66.7/ [Nginx]  403 Forbidden
+[+] 403 https://210.29.66.7 [Nginx]  403 Forbidden
+[+] 200 http://210.29.66.141 [JSP] [Oracle-XDB] [Servlet]  
+[+] 404 http://210.29.66.99:8083  None
+[+] 404 http://210.29.66.99:8081  None
+[+] 401 http://210.29.66.99:8161 [Jetty]  Error 401 Unauthorized
+[+] 404 http://210.29.66.41  404 Not Found
+[+] 404 https://210.29.66.41  404 Not Found
+[+] 404 http://210.29.66.31:8003 [Weblogic]  None
+[+] 404 http://210.29.66.31:7001 [Weblogic]  None
+[+] Find 210.29.65.220 (ping)
+[+] Find 210.29.65.12 (ping)
+[+] Find 210.29.65.171 (ping)
+[+] Find 210.29.65.23 (ping)
+[+] Find 210.29.65.61 (ping)
+[+] Find 210.29.65.132 (ping)
+[+] Find 210.29.65.60 (ping)
+[+] Find 210.29.65.75 (ping)
+[+] Find 210.29.65.38 (ping)
+[+] Find 210.29.65.18 (ping)
+[+] Find 210.29.65.73 (ping)
+[+] Find 210.29.65.79 (ping)
+[+] Find 210.29.65.15 (ping)
+[+] Find 210.29.65.20 (ping)
+[+] Find 210.29.65.130 (ping)
+[+] Find 210.29.65.214 (ping)
+[+] Find 210.29.65.39 (ping)
+[+] Find 210.29.65.221 (ping)
+[+] Find 210.29.65.211 (ping)
+[+] Find 210.29.65.151 (ping)
+[+] 210.29.65.12 3389 open
+[+] 210.29.65.12 5985 open
+[+] 210.29.65.12 443 open
+[+] 210.29.65.12 139 open
+[+] 210.29.65.12 80 open
+[+] 210.29.65.12 135 open
+[+] 210.29.65.12 1433 open
+[+] 210.29.65.38 80 open
+[+] 210.29.65.12 445 open
+[+] 210.29.65.61 443 open
+[+] 210.29.65.132 22 open
+[+] 210.29.65.151 139 open
+[+] 210.29.65.151 445 open
+[+] 210.29.65.23 22 open
+[+] 210.29.65.151 80 open
+[+] 210.29.65.221 22 open
+[+] 210.29.65.130 22 open
+[+] 210.29.65.221 80 open
+[+] 210.29.65.151 3389 open
+[+] 210.29.65.151 135 open
+[+] 210.29.65.39 3306 open
+[+] 210.29.65.220 22 open
+[+] 210.29.65.171 1433 open
+[+] 210.29.65.171 445 open
+[+] 210.29.65.171 3389 open
+[+] 210.29.65.60 80 open
+[+] 210.29.65.171 80 open
+[+] 210.29.65.171 139 open
+[+] 210.29.65.171 135 open
+[+] 210.29.65.211 22 open
+[+] 210.29.65.211 80 open
+[+] 210.29.65.211 6379 open
+[+] 210.29.65.211 3306 open
+[+] 210.29.65.39 22 open
+[+] 210.29.65.38 3389 open
+[+] 210.29.65.214 22 open
+[+] 210.29.65.18 22 open
+[+] 210.29.65.20 22 open
+[+] 210.29.65.73 3306 open
+[+] 210.29.65.15 21 open
+[+] 210.29.65.15 22 open
+[+] 210.29.65.18 80 open
+[+] 210.29.65.79 3389 open
+[+] 210.29.65.18 6379 open
+[+] 210.29.65.15 80 open
+[+] 210.29.65.79 80 open
+[+] 210.29.65.79 135 open
+[+] 210.29.65.73 80 open
+[+] 210.29.65.73 22 open
+[+] 210.29.65.73 81 open
+[+] 210.29.65.79 443 open
+[+] 210.29.65.79 139 open
+[+] 210.29.65.79 445 open
+[+] 210.29.65.79 21 open
+ftp 210.29.65.79:21 unauthorized
+[Yasso] Find Host 256,Need scan 39424
+[Yasso] Find Host 256,Need scan 39424
+[Yasso] Find Host 1,Need scan 154
+[Yasso] Find Host 1,Need scan 154
+[Yasso] Find Host 1,Need scan 154
+[Yasso] Find Host 1,Need scan 154
+[+] Find 139.224.231.108 (ping)
+[+] 139.224.231.108 21 open
+[+] 139.224.231.108 3306 open
+[+] 139.224.231.108 8080 open
+[+] 139.224.231.108 22 open
+[+] 139.224.231.108 80 open
+[+] 401 http://139.224.231.108:8080  None
+[+] 403 http://139.224.231.108:888 [Nginx]  403 Forbidden
+[+] 302 http://139.224.231.108:8888/login [BT-Linux-Control-Pane] [Nginx]  安全入口校验失败
+[+] 200 http://139.224.231.108:8083 [Bootstrap] [JAVA] [JSP]  首页
+[+] 200 http://139.224.231.108 [Nginx] [WordPress]  鱼仔的博客 &#8211; “用技术倾注对生活的热爱”
+[+] Find ntutools.cn (ping)
+[+] ntutools.cn 21 open
+[+] ntutools.cn 80 open
+[+] ntutools.cn 3306 open
+[+] ntutools.cn 22 open
+[+] ntutools.cn 8080 open
+[+] 502 http://ntutools.cn [Nginx]  502 Bad Gateway
+[+] 401 http://ntutools.cn:8080  None
+[+] 403 http://ntutools.cn:888 [Nginx]  403 Forbidden
+[+] 302 http://ntutools.cn:8888/login [BT-Linux-Control-Pane] [Nginx]  安全入口校验失败
+[+] 200 http://ntutools.cn:8083 [Bootstrap] [JAVA] [JSP]  首页
+[+] Find 210.29.66.137 (ping)
+[+] Find 210.29.66.255 (ping)
+[+] Find 210.29.66.32 (ping)
+[+] Find 210.29.66.15 (ping)
+[+] Find 210.29.66.9 (ping)
+[+] Find 210.29.66.33 (ping)
+[+] Find 210.29.66.2 (ping)
+[+] Find 210.29.66.13 (ping)
+[+] Find 210.29.66.6 (ping)
+[+] Find 210.29.66.12 (ping)
+[+] Find 210.29.66.49 (ping)
+[+] Find 210.29.66.36 (ping)
+[+] Find 210.29.66.44 (ping)
+[+] Find 210.29.66.99 (ping)
+[+] Find 210.29.66.31 (ping)
+[+] Find 210.29.66.26 (ping)
+[+] Find 210.29.66.27 (ping)
+[+] Find 210.29.66.47 (ping)
+[+] Find 210.29.66.16 (ping)
+[+] Find 210.29.66.18 (ping)
+[+] Find 210.29.66.17 (ping)
+[+] Find 210.29.66.54 (ping)
+[+] Find 210.29.66.30 (ping)
+[+] Find 210.29.66.224 (ping)
+[+] Find 210.29.66.195 (ping)
+[+] Find 210.29.66.39 (ping)
+[+] Find 210.29.66.131 (ping)
+[+] Find 210.29.66.120 (ping)
+[+] Find 210.29.66.189 (ping)
+[+] Find 210.29.66.160 (ping)
+[+] Find 210.29.66.107 (ping)
+[+] 210.29.66.2 Find CVE-2020-0796
+[+] 210.29.66.30 443 open
+[+] 210.29.66.47 443 open
+[+] 210.29.66.47 8080 open
+[+] 210.29.66.189 80 open
+[+] 210.29.66.36 80 open
+[+] 210.29.66.30 22 open
+[+] 210.29.66.47 80 open
+[+] 210.29.66.12 80 open
+[+] 210.29.66.49 8080 open
+[+] 210.29.66.12 443 open
+[+] 210.29.66.12 8080 open
+[+] 210.29.66.49 22 open
+[+] 210.29.66.189 3389 open
+[+] 210.29.66.33 8080 open
+[+] 210.29.66.189 443 open
+[+] 210.29.66.33 7001 open
+[+] 210.29.66.33 22 open
+[+] 210.29.66.49 3306 open
+[+] 210.29.66.44 80 open
+[+] 210.29.66.137 80 open
+[+] 210.29.66.49 80 open
+[+] 210.29.66.49 443 open
+[+] 210.29.66.137 8080 open
+[+] 210.29.66.189 8080 open
+[+] 210.29.66.33 443 open
+[+] 210.29.66.44 22 open
+[+] 210.29.66.47 22 open
+[+] 210.29.66.137 443 open
+[+] 210.29.66.33 80 open
+[+] 210.29.66.255 8080 open
+[+] 210.29.66.99 22 open
+[+] 210.29.66.31 8080 open
+[+] 210.29.66.31 7001 open
+[+] 210.29.66.31 22 open
+[+] 210.29.66.99 8080 open
+[+] 210.29.66.30 8080 open
+[+] 210.29.66.31 80 open
+[+] 210.29.66.31 443 open
+[+] 210.29.66.99 80 open
+[+] 210.29.66.36 8080 open
+[+] 210.29.66.99 443 open
+[+] 210.29.66.36 443 open
+[+] 210.29.66.44 3306 open
+[+] 210.29.66.30 80 open
+[+] 210.29.66.189 1433 open
+[+] 210.29.66.189 3306 open
+[+] 210.29.66.137 22 open
+[+] 210.29.66.189 135 open
+[+] 210.29.66.44 443 open
+[+] 210.29.66.189 445 open
+[+] 210.29.66.44 8080 open
+[+] 210.29.66.189 139 open
+[+] 210.29.66.189 5985 open
+[+] 210.29.66.12 22 open
+[NBTBIOS] 210.29.66.189
+	WORKGROUP       G Domain Name
+	WIN-1G9BQS5PM8B U Workstation Service
+	WIN-1G9BQS5PM8B U Server Service
+	-------------------------------------------
+	Windows Server 2012 R2 Datacenter 9600|Windows Server 2012 R2 Datacenter 6.3
+	NetBIOS domain name   : WIN-1G9BQS5PM8B
+	NetBIOS computer name : WIN-1G9BQS5PM8B
+	DNS domain name       : WIN-1G9BQS5PM8B
+	DNS computer name     : WIN-1G9BQS5PM8B
+[SMB] IP 210.29.66.189 [domain: WORKGROUP hostname: WIN-1G9BQS5PM8B]
+[OXID] Hostname WIN-1G9BQS5PM8B Network [210.29.66.189 2002:d21d:42bd::d21d:42bd]
+[SMB] IP 210.29.66.27 [domain: WORKGROUP hostname: WIN-ET3HKRS03H4]
+[OXID] Hostname WIN-ET3HKRS03H4 Network [210.29.66.27 2002:d21d:421b::d21d:421b]
+[OXID] Hostname DESKTOP-3CVBB65 Network [210.29.66.2]
+[+] 200 http://210.29.66.137 [JSP] [Oracle-XDB] [Servlet]  
+[+] 404 http://210.29.66.36:8080 [Apache] [Apache-Tomcat]  HTTP Status 404 – Not Found
+[+] 200 https://210.29.66.36:8443 [Nginx]  管理中心
+[+] 404 http://210.29.66.99:8083  None
+[+] 404 http://210.29.66.99:8081  None
+[+] 401 http://210.29.66.99:8161 [Jetty]  Error 401 Unauthorized
+[+] 404 http://210.29.66.30:8009 [Weblogic]  None
+[+] 404 http://210.29.66.30:8005 [Weblogic]  None
+[+] 404 http://210.29.66.47:8080 [Apache-Tomcat]  HTTP Status 404 – Not Found
+[+] 301 http://210.29.66.12/new/index.html [OpenResty] [Wisedu-SC]  
+[+] 301 https://210.29.66.12/new/index.html [OpenResty] [Wisedu-SC]  
+[+] 404 http://210.29.66.189 [Apache-Tomcat]  HTTP Status 404 – Not Found
+[+] Find 210.29.65.3 (ping)
+[+] Find 210.29.65.175 (ping)
+[+] Find 210.29.65.166 (ping)
+[+] Find 210.29.65.23 (ping)
+[+] Find 210.29.65.79 (ping)
+[+] Find 210.29.65.1 (ping)
+[+] Find 210.29.65.60 (ping)
+[+] Find 210.29.65.90 (ping)
+[+] Find 210.29.65.20 (ping)
+[+] Find 210.29.65.227 (ping)
+[+] Find 210.29.65.230 (ping)
+[+] Find 210.29.65.231 (ping)
+[+] Find 210.29.65.36 (ping)
+[+] Find 210.29.65.215 (ping)
+[+] Find 210.29.65.150 (ping)
+[+] Find 210.29.65.18 (ping)
+[+] Find 210.29.65.75 (ping)
+[+] Find 210.29.65.93 (ping)
+[+] Find 210.29.65.184 (ping)
+[+] Find 210.29.65.87 (ping)
+[+] 210.29.65.184 Find MS17010 (Windows Server (R) 2008 Enterprise 6001 Service Pack 1)
+[+] 210.29.65.87 22 open
+[+] 210.29.65.166 80 open
+[+] 210.29.65.166 22 open
+[+] 210.29.65.175 80 open
+[+] 210.29.65.23 22 open
+[+] 210.29.65.79 80 open
+[+] 210.29.65.79 21 open
+[+] 210.29.65.79 445 open
+[+] 210.29.65.79 3389 open
+[+] 210.29.65.79 135 open
+[+] 210.29.65.79 139 open
+[+] 210.29.65.79 443 open
+[+] 210.29.65.36 21 open
+[+] 210.29.65.36 3389 open
+[+] 210.29.65.36 80 open
+[+] 210.29.65.36 139 open
+[+] 210.29.65.36 135 open
+[+] 210.29.65.90 80 open
+[+] 210.29.65.90 22 open
+[+] 210.29.65.227 22 open
+[+] 210.29.65.60 80 open
+[+] 210.29.65.60 3389 open
+[+] 210.29.65.20 443 open
+[+] 210.29.65.175 135 open
+[+] 210.29.65.20 22 open
+[+] 210.29.65.230 22 open
+[+] 210.29.65.227 8080 open
+[+] 210.29.65.231 139 open
+ftp 210.29.65.79:21 unauthorized

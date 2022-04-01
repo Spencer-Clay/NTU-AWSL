@@ -106,6 +106,28 @@ module.exports = [
         ],
     },
     {
+        text: '神兵利器',
+        items: [
+            {
+                text: "漏洞利用",
+                link: "/weapons/exploit/",
+            },
+            {
+                text: "C2",
+                link: "/weapons/C2/",
+            },
+            {
+                text: "信息搜集",
+                link: "/weapons/info_collect/",
+            },
+            {
+                text: "溯源与反制",
+                link: "/weapons/trace_source/",
+            },
+
+        ],
+    },
+    {
         text: '黑客技能',
         items: [
             {

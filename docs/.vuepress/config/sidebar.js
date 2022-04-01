@@ -21,4 +21,8 @@ module.exports = {
     '/studyreport/2022': require('../../studyreport/2022/sidebar_contents'),
     '/hackskill/android': require('../../hackskill/android/sidebar_contents'),
     '/hackskill/radio': require('../../hackskill/radio/sidebar_contents'),
+    '/weapons/C2': require('../../weapons/C2/sidebar_contents'),
+    '/weapons/exploit': require('../../weapons/exploit/sidebar_contents'),
+    '/weapons/info_collect': require('../../weapons/info_collect/sidebar_contents'),
+    '/weapons/trace_source': require('../../weapons/trace_source/sidebar_contents'),
   };

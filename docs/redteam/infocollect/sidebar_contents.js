@@ -1,10 +1,10 @@
 module.exports = [
 	"/redteam/infocollect/",
 	{
-		title: "信息搜集",
+		title: "弱点突破",
 		collapsable: true,
 		children:[
-			"/redteam/infocollect/",
+			"/redteam/infocollect/attack_weak/常见密码漏洞及其安全建议",
 		]
 	},
 ];
