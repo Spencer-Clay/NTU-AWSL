@@ -6,6 +6,7 @@ module.exports = [
 		children:[
 			"/ctf/WEB/PHP其他相关/php session伪造/php session伪造",
 			"/ctf/WEB/PHP其他相关/php一些绕过总结/php一些绕过总结",
+			"/ctf/WEB/PHP其他相关/php反序列化字符串逃逸/php反序列化字符串逃逸",
 		]
 	},
 	{
