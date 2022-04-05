@@ -59,6 +59,7 @@ footer: Powered by AWSL | Copyright © 2020-2022 AWSL
         - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/葛宝琦/葛宝琦学习报告03.html'>葛宝琦学习报告03</a><br/>
         - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/翟一鸣/翟一鸣学习报告03/翟一鸣学习报告03.html'>翟一鸣学习报告03</a><br/>
         - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/陆玺州/陆玺州学习报告03.html'>陆玺州学习报告03</a><br/>
+        - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/陈励文/陈励文学习报告03.html'>陈励文学习报告03</a><br/>
       </p>
     </a-timeline-item>
     <a-timeline-item>
@@ -87,6 +88,7 @@ footer: Powered by AWSL | Copyright © 2020-2022 AWSL
         - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/葛宝琦/葛宝琦学习报告02.html'>葛宝琦学习报告02</a><br/>
         - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/翟一鸣/翟一鸣学习报告02.html'>翟一鸣学习报告02</a><br/>
         - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/陆玺州/陆玺州学习报告02.html'>陆玺州学习报告02</a><br/>
+        - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/陈励文/陈励文学习报告02.html'>陈励文学习报告02</a><br/>
       </p>
     </a-timeline-item>
     <a-timeline-item>
@@ -113,6 +115,7 @@ footer: Powered by AWSL | Copyright © 2020-2022 AWSL
         - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/刘灿/刘灿学习报告01.html'>刘灿学习报告01</a><br/>
         - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/葛宝琦/葛宝琦学习报告01.html'>葛宝琦学习报告01</a><br/>
         - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/翟一鸣/翟一鸣学习报告01.html'>翟一鸣学习报告01</a><br/>
+        - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/陈励文/陈励文学习报告01.html'>陈励文学习报告01</a><br/>
       </p>
     </a-timeline-item>
     <a-timeline-item>
