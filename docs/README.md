@@ -50,6 +50,13 @@ footer: Powered by AWSL | Copyright © 2020-2022 AWSL
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.4.9
+      <p>
+        - <a-tag color="blue">神兵利器</a-tag>新增神兵利器——漏洞利用：<a href='/weapons/exploit/flask_session_cookie_manager/flask_session_cookie_manager.html'>flask_session_cookie_manager</a><br/>
+        - <a-tag color="blue">神兵利器</a-tag>新增神兵利器——漏洞利用：<a href='/weapons/exploit/Flask-Unsign/Flask-Unsign.html'>Flask-Unsign</a><br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       2022.4.4
       <p>
         - <a-tag color="yellow">CTF</a-tag>新增WEB文章：<a href='/ctf/WEB/PHP其他相关/php反序列化字符串逃逸/php反序列化字符串逃逸.html'>php反序列化字符串逃逸</a><br/>
