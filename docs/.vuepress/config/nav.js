@@ -96,6 +96,10 @@ module.exports = [
                 link: "/redteam/innet/",
             },
             {
+                text: "漏洞挖掘",
+                link: "/redteam/vuln/",
+            },
+            {
                 text: "信息搜集",
                 link: "/redteam/infocollect/",
             },
