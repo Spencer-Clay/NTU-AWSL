@@ -50,6 +50,25 @@ footer: Powered by AWSL | Copyright © 2020-2022 AWSL
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.4.11
+      <p>
+        - <a-tag color="red">红蓝对抗</a-tag>新增漏洞挖掘文章：<a href='/redteam/vuln/逻辑漏洞/验证码安全.html'>验证码安全</a><br/>
+        - <a-tag color="red">漏洞相关</a-tag><a href='/wiki/frame/SpringBoot/Spring Core JDK9+ Spring4Shell远程命令执行漏洞.html'>Spring Core JDK9+ Spring4Shell远程命令执行漏洞 CVE-2022-22965</a><br/>
+        - <a-tag color="red">漏洞相关</a-tag><a href='/wiki/webserver/Apache/Apache Spark unTarUsingTar 命令注入漏洞 SPARK-38631.html'>Apache Spark unTarUsingTar 命令注入漏洞 SPARK-38631</a><br/>
+        - <a-tag color="red">漏洞相关</a-tag><a href='/wiki/iot/TOTOLink/TOTOLink 多个设备 download.cgi 远程命令执行漏洞 CVE-2022-25084.html'>TOTOLink 多个设备 download.cgi 远程命令执行漏洞 CVE-2022-25084</a><br/>
+        - <a-tag color="red">漏洞相关</a-tag><a href='/wiki/frame/SpringBoot/Spring Cloud Function SPEL 远程命令执行漏洞.html'>Spring Cloud Function SPEL 远程命令执行漏洞</a><br/>
+        - <a-tag color="red">漏洞相关</a-tag><a href='/wiki/frame/MotionEye/MotionEye 视频监控组件 list 信息泄漏洞 CVE-2022-25568.html'>MotionEye 视频监控组件 list 信息泄漏洞 CVE-2022-25568</a><br/>
+        - <a-tag color="red">漏洞相关</a-tag><a href='/wiki/iot/华为/Huawei DG8045 deviceinfo 信息泄漏漏洞.html'>Huawei DG8045 deviceinfo 信息泄漏漏洞</a><br/>
+        - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/张心玥/张心玥学习报告04.html'>张心玥学习报告04</a><br/>
+        - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/朱海龙/朱海龙学习报告04.html'>朱海龙学习报告04</a><br/>
+        - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/刘灿/刘灿学习报告04.html'>刘灿学习报告04</a><br/>
+        - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/葛宝琦/葛宝琦学习报告04.html'>葛宝琦学习报告04</a><br/>
+        - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/翟一鸣/翟一鸣学习报告04/翟一鸣学习报告04.html'>翟一鸣学习报告04</a><br/>
+        - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/陆玺州/陆玺州学习报告04.html'>陆玺州学习报告04</a><br/>
+        - <a-tag color="green">学习报告</a-tag>新增学习报告：<a href='/studyreport/2022/陈励文/陈励文学习报告04.html'>陈励文学习报告04</a><br/>
+      </p>
+    </a-timeline-item> 
+    <a-timeline-item>
       2022.4.9
       <p>
         - <a-tag color="blue">神兵利器</a-tag>新增神兵利器——漏洞利用：<a href='/weapons/exploit/flask_session_cookie_manager/flask_session_cookie_manager.html'>flask_session_cookie_manager</a><br/>

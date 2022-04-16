@@ -1,10 +1,10 @@
 module.exports = [
-	"/redteam/keeprights/",
+	"/redteam/vuln/",
 	{
-		title: "权限维持",
+		title: "逻辑漏洞",
 		collapsable: true,
 		children:[
-			"/redteam/keeprights/",
+			"/redteam/vuln/逻辑漏洞/验证码安全",
 		]
 	},
 ];
