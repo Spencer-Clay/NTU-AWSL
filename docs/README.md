@@ -50,6 +50,12 @@ footer: Powered by AWSL | Copyright © 2020-2022 AWSL
 <template>
   <a-timeline>
     <a-timeline-item>
+      2022.4.16
+      <p>
+        - <a-tag color="red">红蓝对抗</a-tag>新增渗透测试文章：<a href='/redteam/Penetration/从弱口令到getshell/从弱口令到getshell.html'>从弱口令到getshell</a><br/>
+      </p>
+    </a-timeline-item> 
+    <a-timeline-item>
       2022.4.11
       <p>
         - <a-tag color="red">红蓝对抗</a-tag>新增漏洞挖掘文章：<a href='/redteam/vuln/逻辑漏洞/验证码安全.html'>验证码安全</a><br/>

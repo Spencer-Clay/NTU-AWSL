@@ -92,6 +92,10 @@ module.exports = [
       text: '红蓝对抗',
         items: [
             {
+                text: "渗透测试",
+                link: "/redteam/Penetration/",
+            },
+            {
                 text: "内网渗透",
                 link: "/redteam/innet/",
             },

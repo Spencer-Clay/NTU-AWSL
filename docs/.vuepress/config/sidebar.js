@@ -14,6 +14,7 @@ module.exports = {
     '/redteam/innet': require('../../redteam/innet/sidebar_contents'),
     '/redteam/keeprights': require('../../redteam/keeprights/sidebar_contents'),
     '/redteam/vuln': require('../../redteam/vuln/sidebar_contents'),
+    '/redteam/Penetration': require('../../redteam/Penetration/sidebar_contents'),
     '/ctf/CRYPTO': require('../../ctf/CRYPTO/sidebar_contents'),
     '/ctf/WEB': require('../../ctf/WEB/sidebar_contents'),
     '/ctf/PWN': require('../../ctf/PWN/sidebar_contents'),
