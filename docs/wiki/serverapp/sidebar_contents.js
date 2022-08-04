@@ -56,6 +56,7 @@ module.exports = [
 		children:[
 			"/wiki/serverapp/VMware/VMware vRealize Operations Manager SSRF漏洞 CVE-2021-21975",
 			"/wiki/serverapp/VMware/VMware vCenter vid 任意文件读取漏洞",
+			"/wiki/serverapp/VMware/VMware Workspace ONE Access SSTI漏洞 CVE-2022-22954",
 		]
 	},
 	{
@@ -87,6 +88,7 @@ module.exports = [
 			"/wiki/serverapp/WordPress/WordPress 3DPrint Lite 3dprint-lite-functions.php 任意文件上传漏洞",
 			"/wiki/serverapp/WordPress/WordPress Duplicator duplicator.php 任意文件读取漏洞 CVE-2020-11738",
 			"/wiki/serverapp/WordPress/WordPress Redux Framework class-redux-helpers.php 敏感信息泄漏漏洞 CVE-2021-38314",
+			"/wiki/serverapp/WordPress/WordPress Simple File List ee-downloader.php 任意文件读取漏洞 CVE-2022-1119",
 		]
 	},
 	{

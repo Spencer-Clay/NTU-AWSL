@@ -72,6 +72,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "朗视",
+		collapsable: true,
+		children:[
+			"/wiki/iot/朗视/朗视 TG400 GSM 网关目录遍历 CVE-2021-27328",
+		]
+	},
+	{
 		title: "迈普",
 		collapsable: true,
 		children:[
@@ -84,6 +91,14 @@ module.exports = [
 		children:[
 			"/wiki/iot/华为/Huawei HG659 lib 任意文件读取漏洞",
 			"/wiki/iot/华为/Huawei DG8045 deviceinfo 信息泄漏漏洞",
+		]
+	},
+	{
+		title: "小米",
+		collapsable: true,
+		children:[
+			"/wiki/iot/小米/小米 路由器 c_upload 远程命令执行漏洞 CVE-2019-18370",
+			"/wiki/iot/小米/小米 路由器 extdisks 任意文件读取漏洞 CVE-2019-18371",
 		]
 	},
 	{
@@ -142,6 +157,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/Zyxel/Zyxel NBG2105 身份验证绕过 CVE-2021-3297",
+			"/wiki/iot/Zyxel/Zyxel USG FLEX handler 远程命令执行漏洞 CVE-2022-30525"
 		]
 	},
 	{
@@ -166,6 +182,7 @@ module.exports = [
 		title: "D-Link",
 		collapsable: true,
 		children:[
+			"/wiki/iot/D-Link/D-LINK DAP-2020 webproc 任意文件读取漏洞 CVE-2021-27250",
 			"/wiki/iot/D-Link/D-Link DSL-28881A 远程命令执行 CVE-2020-24581",
 			"/wiki/iot/D-Link/D-Link DSL-28881A 信息泄露 CVE-2020-24577",
 			"/wiki/iot/D-Link/D-Link DSL-28881A 未授权访问 CVE-2020-24579",
@@ -228,6 +245,20 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/DrayTek/DrayTek企业网络设备 远程命令执行 CVE-2020-8515",
+		]
+	},
+	{
+		title: "Fortinet",
+		collapsable: true,
+		children:[
+			"/wiki/iot/Fortinet/Fortinet FortiWeb sslvpn_websession 路径遍历漏洞 CVE-2018-13379",
+		]
+	},
+	{
+		title: "Finetree",
+		collapsable: true,
+		children:[
+			"/wiki/iot/Finetree/Finetree 5MP 摄像机 user_pop.php 任意用户添加漏洞 CNVD-2021-42372",
 		]
 	},
 	{
@@ -331,6 +362,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/MagicFlow/MagicFlow 防火墙网关 main.xp 任意文件读取漏洞",
+		]
+	},
+	{
+		title: "Telesquare",
+		collapsable: true,
+		children:[
+			"/wiki/iot/Telesquare/Telesquare SDT-CW3B1 admin.cgi 远程命令执行漏洞 CVE-2021-46422",
 		]
 	},
 	{

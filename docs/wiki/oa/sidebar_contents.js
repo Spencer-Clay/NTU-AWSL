@@ -5,6 +5,7 @@ module.exports = [
 		collapsable: true,
 		children:[
             "/wiki/oa/通达OA/通达OA v2014 get_contactlist.php 敏感信息泄漏漏洞",
+			"/wiki/oa/通达OA/通达OA v2017 video_file.php 任意文件下载漏洞",
 			"/wiki/oa/通达OA/通达OA v2017 action_upload.php 任意文件上传漏洞",
 			"/wiki/oa/通达OA/通达OA v11.2 upload.php 后台任意文件上传漏洞",
 			"/wiki/oa/通达OA/通达OA v11.5 login_code.php 任意用户登录",
@@ -51,11 +52,13 @@ module.exports = [
 		title: "泛微OA",
 		collapsable: true,
 		children:[
-			"/wiki/oa/泛微OA/泛微OA ln.FileDownload 任意文件读取漏洞",
 			"/wiki/oa/泛微OA/泛微OA WorkflowCenterTreeData SQL注入漏洞",
-			"/wiki/oa/泛微OA/泛微OA weaver.common.Ctrl 任意文件上传漏洞",
 			"/wiki/oa/泛微OA/泛微OA uploadOperation.jsp 任意文件上传",
 			"/wiki/oa/泛微OA/泛微OA getdata.jsp SQL注入漏洞",
+			"/wiki/oa/泛微OA/泛微OA E-Weaver ln.FileDownload 任意文件读取漏洞",
+			"/wiki/oa/泛微OA/泛微OA E-Weaver weaver.common.Ctrl 任意文件上传漏洞",
+			"/wiki/oa/泛微OA/泛微OA E-Weaver SignatureDownLoad 任意文件读取漏洞",
+			"/wiki/oa/泛微OA/泛微OA E-Cology HrmCareerApplyPerView.jsp SQL注入漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Cology LoginSSO.jsp SQL注入漏洞 CNVD-2021-33202",
 			"/wiki/oa/泛微OA/泛微OA E-Cology getSqlData SQL注入漏洞",
 			"/wiki/oa/泛微OA/泛微OA E-Cology users.data 敏感信息泄漏",
@@ -93,6 +96,7 @@ module.exports = [
 			"/wiki/oa/蓝凌OA/蓝凌OA admin.do JNDI远程命令执行",
 			"/wiki/oa/蓝凌OA/蓝凌OA kmImeetingRes.do 后台SQL注入漏洞 CNVD-2021-01363",
 			"/wiki/oa/蓝凌OA/蓝凌OA custom.jsp 任意文件读取漏洞",
+			"/wiki/oa/蓝凌OA/蓝凌OA treexml.tmpl 远程命令执行漏洞",
 		]
 	},
 	{
@@ -101,6 +105,13 @@ module.exports = [
 		children:[
 			"/wiki/oa/帆软OA/帆软报表 V8 get_geo_json 任意文件读取漏洞 CNVD-2018-04757",
 			"/wiki/oa/帆软OA/帆软报表 V9 design_save_svg 任意文件覆盖文件上传",
+		]
+	},
+	{
+		title: "极限OA",
+		collapsable: true,
+		children:[
+			"/wiki/oa/极限OA/极限OA video_file.php 任意文件读取漏洞",
 		]
 	},
 	{

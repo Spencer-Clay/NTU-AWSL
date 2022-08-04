@@ -32,6 +32,7 @@ module.exports = [
 		title: "Apache",
 		collapsable: true,
 		children:[
+			"/wiki/webserver/Apache/Apache Hadoop Yarn RPC 远程命令执行漏洞",
 			"/wiki/webserver/Apache/Apache Kylin config 未授权配置泄露 CVE-2020-13937",
 			"/wiki/webserver/Apache/Apache Kylin DiagnosisController.java 命令注入漏洞 CVE-2020-13925",
 			"/wiki/webserver/Apache/Apache Kylin CubeService.java 命令注入漏洞 CVE-2020-1956",
@@ -62,7 +63,10 @@ module.exports = [
 			"/wiki/webserver/Apache/Apache ZooKeeper 未授权访问漏洞 CVE-2014-085",
 			"/wiki/webserver/Apache/Apache ActiveMQ 反序列化漏洞 CVE-2015-5254",
 			"/wiki/webserver/Apache/Apache Spark create 未授权访问漏洞",
-			"/wiki/webserver/Apache/Apache Spark unTarUsingTar 命令注入漏洞 SPARK-38631",	
+			"/wiki/webserver/Apache/Apache Spark unTarUsingTar 命令注入漏洞 SPARK-38631",
+			"/wiki/webserver/Apache/Apache Struts2 S2-062 远程代码执行漏洞 CVE-2021-31805",		
+			"/wiki/webserver/Apache/Apache SkyWalking graphql SQL注入漏洞 CVE-2020-9483",
+			"/wiki/webserver/Apache/Apache CouchDB epmd 远程命令执行漏洞 CVE-2022-24706",
 		]
 	},
 	{
@@ -75,6 +79,14 @@ module.exports = [
 		]
 	},
 	{
+		title: "Goahead",
+		collapsable: true,
+		children:[
+			"/wiki/webserver/Goahead/Goahead LD_PRELOAD 远程命令执行漏洞 CVE-2021-42342",
+			"/wiki/webserver/Goahead/Goahead LD_PRELOAD 远程命令执行漏洞 CVE-2017-17562",
+		]
+	},
+	{
 		title: "Weblogic",
 		collapsable: true,
 		children:[
@@ -82,6 +94,14 @@ module.exports = [
 			"/wiki/webserver/Weblogic/Weblogic XMLDecoder 远程代码执行漏洞 CVE-2017-10271",
 			"/wiki/webserver/Weblogic/Weblogic SSRF漏洞 CVE-2014-4210",
 			"/wiki/webserver/Weblogic/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109",
+			"/wiki/webserver/Weblogic/WebLogic Local File Inclusion 本地文件包含漏洞 CVE-2022-21371",
+		]
+	},
+	{
+		title: "Mini_httpd",
+		collapsable: true,
+		children:[
+			"/wiki/webserver/Minihttpd/ACME Mini_httpd 任意文件读取漏洞 CVE-2018-18778",
 		]
 	},
 	{

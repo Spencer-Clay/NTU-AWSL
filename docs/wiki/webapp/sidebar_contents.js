@@ -124,10 +124,19 @@ module.exports = [
 		]
 	},
 	{
+		title: "WSO2",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/WSO2/WSO2 fileupload 任意文件上传漏洞 CVE-2022-29464",
+			"/wiki/webapp/WSO2/WSO2 proxy SSRF漏洞 WSO2-2019-0598",
+		]
+	},
+	{
 		title: "Casbin",
 		collapsable: true,
 		children:[
 			"/wiki/webapp/Casbin/Casbin get-users 账号密码泄漏漏洞",
+			"/wiki/webapp/Casbin/Casdoor get-organizations SQL注入漏洞 CVE-2022-24124",
 		]
 	},
 	{
@@ -146,6 +155,13 @@ module.exports = [
 			"/wiki/webapp/深信服/深信服 应用交付报表系统 download.php 任意文件读取漏洞",
 			"/wiki/webapp/深信服/深信服 行为感知系统 c.php 远程命令执行漏洞",
 			"/wiki/webapp/深信服/深信服 日志中心 c.php 远程命令执行漏洞",
+		]
+	},
+	{
+		title: "七牛云",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/七牛云/七牛云 logkit log_path 任意文件读取漏洞",
 		]
 	},
 	{
@@ -185,6 +201,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "RoxyWi",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/RoxyWi/Roxy-Wi options.py 远程命令执行漏洞 CVE-2022-31137",
+		]
+	},
+	{
 		title: "Gerapy",
 		collapsable: true,
 		children:[
@@ -205,6 +228,7 @@ module.exports = [
 		title: "Grafana",
 		collapsable: true,
 		children:[
+			"/wiki/webapp/Grafana/Grafana mysql 后台任意文件读取漏洞 CVE-2019-19499",
 			"/wiki/webapp/Grafana/Grafana plugins 任意文件读取漏洞 CVE-2021-43798",
 		]
 	},
@@ -213,6 +237,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/Cerebro/Cerebro request SSRF漏洞",
+		]
+	},
+	{
+		title: "Franklin",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/Franklin/Franklin Fueling Systems tsaupload.cgi 任意文件读取漏洞 CVE-2021-46417",
 		]
 	},
 	{
@@ -362,14 +393,6 @@ module.exports = [
 		]
 	},
 	{
-		title: "Atlassian",
-		collapsable: true,
-		children:[
-			"/wiki/webapp/Atlassian/Atlassian Confluence doenterpagevariables.action 远程命令执行漏洞 CVE-2021-26084",
-			"/wiki/webapp/Atlassian/Atlassian Confluence preview SSTI模版注入漏洞 CVE-2019-3396",
-		]
-	},
-	{
 		title: "XXL-JOB",
 		collapsable: true,
 		children:[
@@ -395,6 +418,7 @@ module.exports = [
 		title: "F5 BIG-IP",
 		collapsable: true,
 		children:[
+			"/wiki/webapp/F5-BIG-IP/F5 BIG-IP iControl REST身份认证绕过漏洞 CVE-2022-1388",
 			"/wiki/webapp/F5-BIG-IP/F5 BIG-IP 远程代码执行漏洞 CVE-2021-22986",
 			"/wiki/webapp/F5-BIG-IP/F5 BIG-IP 远程代码执行漏洞 CVE-2020-5902",
 		]
@@ -404,6 +428,14 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/Bitbucket/Bitbucket 登录绕过漏洞",
+		]
+	},
+	{
+		title: "WiseGiga",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/WiseGiga/WiseGiga NAS down_data.php 任意文件下载漏洞",
+			"/wiki/webapp/WiseGiga/WiseGiga NAS group.php 远程命令执行漏洞",
 		]
 	},
 	{
@@ -419,6 +451,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/Metabase/Metabase geojson 任意文件读取漏洞 CVE-2021-41277",
+		]
+	},
+	{
+		title: "SolarView",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/SolarView/SolarView Compact conf_mail.php 远程命令执行漏洞 CVE-2022-29303",
 		]
 	},
 	{
@@ -473,10 +512,24 @@ module.exports = [
 		]
 	},
 	{
+		title: "kkFileView",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/kkFileView/kkFileView getCorsFile 任意文件读取漏洞 CVE-2021-43734",
+		]
+	},
+	{
 		title: "SpiderFlow",
 		collapsable: true,
 		children:[
 			"/wiki/webapp/SpiderFlow/SpiderFlow save 远程命令执行漏洞",
+		]
+	},
+	{
+		title: "LimeSurvey",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/LimeSurvey/LimeSurvey LimeSurveyFileManager.php 后台任意文件读取漏洞 CVE-2020-11455",
 		]
 	},
 	{
@@ -506,6 +559,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/JumpServer/JumpServer 未授权接口 远程命令执行漏洞",
+		]
+	},
+	{
+		title: "nginxWebUI",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/nginxWebUI/nginxWebUI cmdOver 后台命令执行漏洞",
 		]
 	},
 	{
@@ -550,6 +610,9 @@ module.exports = [
 		children:[
 			"/wiki/webapp/AtlassianJira/Atlassian Jira cfx 任意文件读取漏洞 CVE-2021-26086",
 			"/wiki/webapp/AtlassianJira/Atlassian Jira ViewUserHover.jspa 用户信息泄露漏洞 CVE-2020-14181",
+			"/wiki/webapp/AtlassianJira/Atlassian Jira com.atlassian.jira 敏感信息泄漏 CVE-2019-8442",
+			"/wiki/webapp/AtlassianJira/Atlassian Jira groupuserpicker 用户信息枚举漏洞 CVE-2019-8449",
+			"/wiki/webapp/AtlassianJira/Atlassian Jira makeRequest SSRF漏洞 CVE-2019-8451",
 		]
 	},
 	{
@@ -613,6 +676,15 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/webapp/Adobe ColdFusion/Adobe ColdFusion upload.cfm 任意文件上传漏洞 CVE-2018-15961",
+		]
+	},
+	{
+		title: "Atlassian Confluence",
+		collapsable: true,
+		children:[
+			"/wiki/webapp/AtlassianConfluence/Atlassian Confluence OGNL注入漏洞 CVE-2022-26134",
+			"/wiki/webapp/AtlassianConfluence/Atlassian Confluence doenterpagevariables.action 远程命令执行漏洞 CVE-2021-26084",
+			"/wiki/webapp/AtlassianConfluence/Atlassian Confluence preview SSTI模版注入漏洞 CVE-2019-3396",
 		]
 	},
 ];
